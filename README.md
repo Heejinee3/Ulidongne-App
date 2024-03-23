@@ -113,7 +113,7 @@ GitHub Actions를 통해 소스 코드를 빌드하고, AWS S3에 아티팩트�
 
 ---
 
-[완료보고서(PPT)](https://github.com/Heejinee3/Ulidongne-App/blob/main/Docs/final-report.pdf)
+[완료보고서(PPT)](https://github.com/Heejinee3/Ulidongne-App/blob/main/Docs/Report.pdf)
 
 <br>
 
